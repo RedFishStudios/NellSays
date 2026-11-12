@@ -1,0 +1,15 @@
+# Roblox place files / Studio lock files
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Generated
+sourcemap.json
+node_modules/
+tools/out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.claude/settings.local.json
